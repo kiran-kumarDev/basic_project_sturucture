@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPrintingModule.a CMakeFiles/PrintingModule.dir/printer.cpp.o
+/usr/bin/ranlib libPrintingModule.a

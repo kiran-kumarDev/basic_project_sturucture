@@ -1,0 +1,12 @@
+/home/ayati/Desktop/basic_project/build/CMakeFiles/MyProject.dir
+/home/ayati/Desktop/basic_project/build/CMakeFiles/edit_cache.dir
+/home/ayati/Desktop/basic_project/build/CMakeFiles/rebuild_cache.dir
+/home/ayati/Desktop/basic_project/build/src/printing/CMakeFiles/PrintingModule.dir
+/home/ayati/Desktop/basic_project/build/src/printing/CMakeFiles/edit_cache.dir
+/home/ayati/Desktop/basic_project/build/src/printing/CMakeFiles/rebuild_cache.dir
+/home/ayati/Desktop/basic_project/build/src/reading/CMakeFiles/ReadingModule.dir
+/home/ayati/Desktop/basic_project/build/src/reading/CMakeFiles/edit_cache.dir
+/home/ayati/Desktop/basic_project/build/src/reading/CMakeFiles/rebuild_cache.dir
+/home/ayati/Desktop/basic_project/build/src/showing/CMakeFiles/ShowingModule.dir
+/home/ayati/Desktop/basic_project/build/src/showing/CMakeFiles/edit_cache.dir
+/home/ayati/Desktop/basic_project/build/src/showing/CMakeFiles/rebuild_cache.dir

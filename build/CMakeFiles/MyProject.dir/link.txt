@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyProject.dir/src/main.cpp.o -o MyProject  src/printing/libPrintingModule.a src/reading/libReadingModule.a src/showing/libShowingModule.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libShowingModule.a CMakeFiles/ShowingModule.dir/shower.cpp.o
+/usr/bin/ranlib libShowingModule.a
